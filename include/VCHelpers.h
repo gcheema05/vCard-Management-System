@@ -1,10 +1,5 @@
 /*
-* Assignment 3
-* 
 * Name: Gurbaaz Singh Cheema
-* Email: gcheem07@uoguelph.ca
-* Student ID: 1278175
-* Class: CIS2750 W25
 * Date: March 27 2025
 */
 

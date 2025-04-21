@@ -21,7 +21,7 @@ A cross-platform vCard contact management application built using <strong>C</str
 <h2>🛠 Tech Stack</h2>
 
 <table>
-  <tr><td><strong>Languages</strong></td><td>C, Python</td></tr>
+  <tr><td><strong>Languages</strong></td><td>C, Python, SQL</td></tr>
   <tr><td><strong>Frontend</strong></td><td>Python (Asciimatics)</td></tr>
   <tr><td><strong>Backend</strong></td><td>C (Shared Library), MySQL</td></tr>
   <tr><td><strong>Integration</strong></td><td>Ctypes</td></tr>
